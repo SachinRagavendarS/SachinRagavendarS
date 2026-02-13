@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sachin Ragavendar S</h1>
-<h3 align="center">💻 CSE Student | 🌐 Full-Stack Developer</h3>
+<h3 align="center">💻 CSE Student | 🌐 Full-Stack Web Developer</h3>
 
 ---
 
