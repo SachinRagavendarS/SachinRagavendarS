@@ -19,7 +19,7 @@
 
 ## 🚀 Languages & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,php,mysql" />
 </p>
 
 ## 🌐 Frontend
