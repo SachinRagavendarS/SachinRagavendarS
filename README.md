@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/2Y14nS1Q" width="180" style="border-radius:50%" />
+  <img src="SACHIN" width="180" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sachin Ragavendar S</h1>
